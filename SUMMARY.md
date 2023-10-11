@@ -4,4 +4,6 @@ The dataset consists of 2806 images with 471760 labeled objects belonging to 15 
 
 Images in the iSAID dataset have pixel-level instance segmentation annotations. Due to the nature of the instance segmentation task, it can be automatically transformed into a semantic segmentation (only one mask for every class) or object detection (bounding boxes for every object) tasks. There are 937 (33% of the total) unlabeled images (i.e. without annotations). There are 3 splits in the dataset: *train* (1411 images), *test* (937 images), and *val* (458 images). The dataset was released in 2019 by the Inception.AI, UAE, Wuhan UNiversity, China, and Huazhong University of Science and Technology, China.
 
-<img src="https://github.com/dataset-ninja/isaid/raw/main/visualizations/poster.png">
+Here are the visualized examples for each of the 15 classes:
+
+[Dataset classes](https://github.com/dataset-ninja/isaid/raw/main/visualizations/classes_preview.webm)
