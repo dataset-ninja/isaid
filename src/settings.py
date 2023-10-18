@@ -70,7 +70,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = {
 # Use dict key to specify name for a button
 PAPER: Optional[Union[str, List[str], Dict[str, str]]] = "https://arxiv.org/abs/1905.12886"
 BLOGPOST: Optional[Union[str, List[str], Dict[str, str]]] = None
-REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = "https://github.com/CAPTAIN-WHU/iSAID_Devkit"
+REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = {"GitHub": "https://github.com/CAPTAIN-WHU/iSAID_Devkit"}
 
 CITATION_URL: Optional[str] = "https://captain-whu.github.io/iSAID/index.html"
 AUTHORS: Optional[List[str]] = ["Syed Waqas Zamir", "Aditya Arora", "Akshita Gupta", "Salman Khan", "Guolei Sun", "Fahad Shahbaz Khan", "Fan Zhu", "Ling Shao", "Gui-Song Xia", "Xiang Bai"]
