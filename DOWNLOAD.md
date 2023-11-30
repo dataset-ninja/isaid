@@ -1,6 +1,6 @@
 Dataset **iSAID** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/A/u/hW/JrUp42uwxDibAP6Lvmt9sGR2LTKI3vCtdtL8OpAVPsPdNyyRLQ2zcroGkFdaPbZlPiLcGbpt3U4sd0q6lrLjV60APl4nGNRwZ0LuoVd3I4K9O1bGiN6YNIrZ49OZ.tar)
+ [Download](https://www.dropbox.com/scl/fi/90v3ssba8gg7tibw7x82v/isaid-DatasetNinja.tar?rlkey=0xuutmmpke69k6j45f27ryzh8&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
